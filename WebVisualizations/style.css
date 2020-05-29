@@ -1,0 +1,36 @@
+body{
+    background-color: teal;
+    font-style: normal;
+    width: 100%;
+    height: 100%;
+
+
+}
+
+nav{
+    background-color: beige;
+}
+
+
+
+.middlesection{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card{
+    color: cadetblue;
+
+}
+
+.card-title{
+    color: cadetblue;
+} 
+  
+.footer{
+    background-color: thistle;
+    height: 60px;
+    display: block;
+    align-items: center;
+}
